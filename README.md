@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kiran Bari</h1>
-<h3 align="center">I am an MTech CSE(AI) Student at DTU and a Programmer.</h3>
+<h3 align="center">I am a Software Engineer at Radisys.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kiranbari7" target="blank"><img src="https://img.shields.io/twitter/follow/kiranbari7?logo=twitter&style=for-the-badge" alt="kiranbari7" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development and AI/ML**
+- 🌱 I’m currently working with C++, Python, Linux, Git **
 
 - 👨‍💻 All of my projects are available at [https://kiranbari.github.io/](https://kiranbari.github.io/)
 
