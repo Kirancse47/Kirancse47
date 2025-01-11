@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kirancse47@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1o9PfyKTwotKqBp6NBzyuD4v53jCoPq52/view?usp=sharing](https://drive.google.com/file/d/1o9PfyKTwotKqBp6NBzyuD4v53jCoPq52/view?usp=sharing)](https://drive.google.com/file/d/1jaC01io7H4YOmlMh5JVOMvYolVL3Qv3N/view?usp=drive_link)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1jaC01io7H4YOmlMh5JVOMvYolVL3Qv3N/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
