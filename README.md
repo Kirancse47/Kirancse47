@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kirancse47@gmail.com**
 
-- 📄 Know about my experiences(Resume) (https://drive.google.com/file/d/1SQAW8fg40-wJKDRKS0ZIlk5faBaywObd/view?usp=drive_link)
+- 📄 Resume : https://drive.google.com/file/d/1SQAW8fg40-wJKDRKS0ZIlk5faBaywObd/view?usp=drive_link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
